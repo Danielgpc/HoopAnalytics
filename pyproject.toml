@@ -1,5 +1,5 @@
 [project]
-name = "hoopanalitics"
+name = "hoopanalytics"
 version = "0.1.0"
 description = "App for analyzing NBA data"
 readme = "README.md"
@@ -12,7 +12,7 @@ dependencies = [
 ]
 
 [project.scripts]
-hoopanalitics = "hoopanalitics:main"
+hoopanalitics = "hoopanalytics:main"
 
 [build-system]
 requires = ["uv_build>=0.13.5,<0.14.0"]
